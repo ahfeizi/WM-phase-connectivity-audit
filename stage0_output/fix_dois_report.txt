@@ -1,0 +1,31 @@
+====================================================================
+DOI REPAIR - screening_sheet_dedup.csv
+====================================================================
+Rows in: 666
+PubMed rows to re-fetch: 519
+
+Fetching correct DOIs...
+
+DOIs corrected:      226
+DOIs still missing:  4
+
+Unique records:      530
+Merged as duplicate: 136
+
+Independent double labelling of duplicate pairs:
+  136/136 agreement (100.0%)
+  (each pair was labelled twice without the pass knowing they
+   were the same paper - this is a within-rater consistency
+   estimate for the pre-screening tool, report it as such)
+
+Records outside the 2015-2025 window: {'2026': 1, '2014': 2}
+  (PubDate vs ArticleDate disagreement - check before coding)
+
+====================================================================
+CORRECTED ai_label DISTRIBUTION
+====================================================================
+  1    57
+  0   400
+  ?    73
+
+Written: stage0_output\screening_sheet_final.csv

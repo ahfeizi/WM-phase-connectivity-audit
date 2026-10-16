@@ -1,0 +1,11 @@
+﻿draw_order,rec_id,eligibility_ok,measures_ok,space_ok,classification_changed,note
+1,R0111,1,1,1,0,
+2,R0459,1,1,1,0,
+3,R0432,1,1,1,0,
+4,R0500,1,1,1,0,
+5,R0575,1,0,1,0,coh coded for within-channel CFC coherence; inter-regional measure is PPC
+6,R0345,1,1,1,0,
+7,R0448,1,1,1,0,
+8,R0253,1,1,1,0,
+9,R0374,1,1,1,0,
+10,R0144,1,1,1,0,"SPACE-FSP, consistent with D10"

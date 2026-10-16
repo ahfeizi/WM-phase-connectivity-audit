@@ -1,0 +1,51 @@
+﻿rec_id,ai_label,ai_reason
+R0009,1,visuospatial two-back task with frontocentral theta coherence
+R0014,?,"n-back and mental arithmetic source connectivity, fc measure not specified"
+R0017,1,2-back task with wpli-based functional networks in night-shift nurses
+R0048,0,alpha neurofeedback training with no working-memory task
+R0053,0,intracranial eeg in eight epilepsy patients
+R0054,0,"intracranial eeg from hippocampus, entorhinal and lateral temporal cortex"
+R0079,0,"disorders of consciousness, no working-memory task"
+R0087,0,"40 hz entrainment measured at sensor level, no inter-regional connectivity"
+R0097,0,connectome state dynamics from resting-state eeg only
+R0114,0,"qeeg band power during eyes-closed rest, no connectivity measure"
+R0119,0,"resting psd before and after theta-gamma tacs, no connectivity measure"
+R0134,0,workload classified from direct directed transfer function connectivity only
+R0147,0,"causal coupling between eeg bands and fnirs signals, no inter-electrode phase measure"
+R0149,?,"n-back source connectivity between temporal and insular regions, measure not specified"
+R0153,?,"wm task with eeg-fnirs functional connectivity under tacs, measure not specified"
+R0168,?,"visual wm coding network connection flow, connectivity measure not named"
+R0195,0,"neural mass model state estimation on simulated and epilepsy eeg, no wm task"
+R0203,0,"walking with blurred vision, spectral power only"
+R0217,0,"frontoparietal connectivity reported for interference processing, not for the wm task"
+R0223,?,"connectivity around spontaneous self-touches in a retention interval, measure not specified"
+R0236,0,"relative entropy of eeg-fnirs neurovascular coupling, no inter-regional phase measure"
+R0249,0,"odour-video emotion recognition, no working-memory task"
+R0264,?,"wm improvement tracked by theta network synchrony, synchrony measure not specified"
+R0270,0,"classification methods compared on an episodic memory task, wm data only for generalization"
+R0277,0,directed connectivity from vector autoregressive modelling only
+R0282,?,"wm and resting network connectivity in moyamoya disease, measure not specified"
+R0296,0,"erp and spectral features of wm subprocesses, no inter-regional phase measure"
+R0328,0,systematic review of working-memory training neuroimaging
+R0337,0,event-related synchronisation and desynchronisation of power during a sternberg task
+R0349,0,event-related synchronisation and desynchronisation during arithmetic and n-back
+R0359,0,intracranial direct cortical stimulation and recording
+R0360,0,"decoding of impulse responses during wm maintenance, no connectivity measure"
+R0365,1,working-memory encoding with inter- and intrahemispheric coherence
+R0383,0,"covert yes/no intention task, no working-memory load manipulation"
+R0391,0,"audiovisual film editing, no working-memory task"
+R0396,?,"vwm priority switching with frontal delta to posterior alpha interactions, measure not specified"
+R0404,0,"tms-evoked prefrontal synchrony, working memory only a correlate"
+R0410,0,event-related spectral perturbation during sternberg retention
+R0415,0,alpha event-related desynchronization and synchronization during n-back
+R0419,0,band power and cortical speech-envelope entrainment during n-back
+R0438,0,"granger causality connectivity across n-back loads, no phase measure"
+R0464,1,visual-spatial wm with theta phase connectivity between prefrontal and parietal areas
+R0468,0,"auditory oddball listening-effort measures, no working-memory task"
+R0489,?,"network thresholding method applied to vstm task data, connectivity measure not specified"
+R0492,0,"n2pc erp marker of target selection, no connectivity measure"
+R0498,0,event-related power and inter-trial coherence during a 2-back task
+R0506,1,chemistry working memory task with event-related coherence and phase-locking between regions
+R0514,0,evoked gamma power and phase-locking index at sensor level
+R0635,?,"memory-recall and wm tasks with eeg-derived network synchrony, measure not specified"
+R0663,1,mental arithmetic workload with intra- and inter-frequency phase interactions between frontal and parieto-occipital areas

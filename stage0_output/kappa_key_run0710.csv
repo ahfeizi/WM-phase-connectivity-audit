@@ -1,0 +1,51 @@
+﻿rec_id,ai_label,ai_reason
+R0017,1,2-back task with wpli-based functional networks in night-shift nurses
+R0029,0,"inter-subject neural synchrony during video viewing, no wm task"
+R0032,0,"connectivity computed during action and puzzle gameplay, not a wm task"
+R0039,0,"resting-state eeg concussion classification, no cognitive task"
+R0048,0,alpha neurofeedback training with no working-memory task
+R0052,0,"motor imagery of force intensity, no working-memory task"
+R0060,?,"auditory n-back with frontotemporal connectivity, measure not specified"
+R0061,?,"n-back under itbs with alpha and beta inter-regional connectivity, measure not specified"
+R0062,0,protocol for a planned tacs feasibility trial
+R0068,0,"interval timing task with ramping activity, no working-memory load manipulation"
+R0102,0,"tactile imagery and vibrotactile stimulation, no working-memory task"
+R0114,0,"qeeg band power during eyes-closed rest, no connectivity measure"
+R0117,0,"band power features from 14 channels only, no connectivity measure"
+R0119,0,"resting psd before and after theta-gamma tacs, no connectivity measure"
+R0130,1,delayed change-detection task with wpli fronto-parietal connectivity
+R0135,0,design protocol for a planned trial
+R0143,0,theta-gamma coupling and event-related power during n-back
+R0160,0,"connectivity from pre/post stimulation recordings, cognitive battery scored separately"
+R0164,0,"ssvep amplitude and inter-trial coherence at tagged locations, not inter-electrode"
+R0166,0,"single-joint lower-limb movement task, no working-memory task"
+R0172,0,"imaginary coherency during an auditory oddball paradigm, not a wm task"
+R0175,0,"effective connectivity method tested on simulated and adhd data, no wm task"
+R0190,0,"cnv and p2-p3b erp components only, no connectivity measure"
+R0198,0,"time-frequency tensor features for workload classification, no connectivity measure"
+R0209,0,seven patients
+R0226,0,review of oscillatory activity in task switching
+R0233,0,network metrics from resting eeg before and after a fatigue task
+R0244,0,"resting state and visual oddball task, no working-memory task"
+R0251,0,"event-related potentials only, connectivity explicitly not analysed"
+R0254,0,phase-amplitude coupling between scalp low frequencies and intracranial high gamma
+R0271,0,"scientific problem solving with power synchronization measures, no wm task"
+R0272,1,n-back game with phase locking value between all channel pairs across difficulty levels
+R0285,0,"resting-state spectral variability before and after wm tasks, coherence only a resting comparator"
+R0288,0,"mind wandering during video watching, band power only"
+R0300,0,"depression classification from causality measures, no working-memory task"
+R0319,0,"passive mismatch negativity paradigm with dti, no wm task"
+R0331,?,"n-back training with functional connectivity strength, measure not specified"
+R0337,0,event-related synchronisation and desynchronisation of power during a sternberg task
+R0348,?,"change-detection task with long-range effective connectivity, measure not specified"
+R0364,1,vswm encoding with lagged linear coherence between source regions
+R0370,0,methods paper for a pac measure tested on simulated and reaction-task data
+R0382,?,"wm task with interruptions and fronto-parietal theta connectivity, measure not specified"
+R0391,0,"audiovisual film editing, no working-memory task"
+R0429,0,baseline-normalized event-related spectral perturbation measure only
+R0432,1,delayed-recognition wm task with inter-site phase synchronization between parietal and prefrontal areas
+R0445,?,"cross-task workload classification from source connectivity, measure not specified"
+R0510,0,"sentence reading with alpha power distribution, no explicit load manipulation"
+R0513,0,event-related synchronization of alpha and gamma power during wm tasks
+R0579,0,intracranial eeg monitoring during a spatial recall task
+R0620,1,equivalence learning with theta and alpha phase connectivity across working-memory loads

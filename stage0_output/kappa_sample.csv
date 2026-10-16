@@ -1,0 +1,51 @@
+﻿rec_id,year,journal,title,my_label,my_reason
+R0009,2025,Scientific reports,Chewing modulates theta oscillation and functional connectivity of the frontocentral cortex in attention and working memory.,1,
+R0014,2025,Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference,EEG source connectivity analysis reveals working-memory related load effect on regional characteristics.,1,
+R0017,2025,Brain research bulletin,Task-specific effects of sleep deprivation on cognitive function and EEG brain network in night-shift nurses.,0,resting-only
+R0048,2025,Medical engineering & physics,Exploring the neural mechanisms of alpha-band EEG neurofeedback using portable devices: A pre-post comparative study.,0,resting-only
+R0053,2025,PloS one,Distinct neural patterns for various information in working memory: A brain connectivity study.,0,no-EEG
+R0054,2025,Nature communications,Enhanced role of the entorhinal cortex in adapting to increased working memory load.,0,no-EEG
+R0079,2025,Frontiers in neuroscience,Functional connectivity in EEG: a multiclass classification approach for disorders of consciousness.,0,classification-only
+R0087,2025,Journal of Alzheimer's disease reports,"Single-session gamma sensory stimulation entrains real-time electroencephalography but does not enhance perception, attention, short-term memory, or long-term memory.",0,no-phase-connectivity
+R0097,2024,"Network neuroscience (Cambridge, Mass.)",Cognitive abilities are associated with rapid dynamics of electrophysiological connectome states.,0,resting-only
+R0114,2024,Acta psychologica,Transcranial direct current stimulation combined with cognitive training improves two executive functions: Cognitive flexibility and information updating after traumatic brain injury.,0,no-phase-connectivity
+R0119,2024,Molecular brain,Theta-gamma-coupling as predictor of working memory performance in young and elderly healthy people.,0,resting-only
+R0134,2024,Computer methods in biomechanics and biomedical engineering,Classification of mental workload with EEG analysis by using effective connectivity and a hybrid model of CNN and LSTM.,0,classification-only
+R0147,2024,IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society,Neurovascular Coupling Analysis Based on Multivariate Variational Gaussian Process Convergent Cross-Mapping.,0,classification-only
+R0149,2024,Dementia and geriatric cognitive disorders extra,The Impact of Age-Related Hearing Loss on Working Memory among Older Individuals: An Event-Related Potential Study.,?,
+R0153,2024,IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society,Repetitive Transcranial Alternating Current Stimulation to Improve Working Memory: An EEG-fNIRS Study.,?,
+R0168,2023,Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference,Altered functional connectivity during visual working memory state in patients with mild cognitive impairment.,?,
+R0195,2023,Journal of neural engineering,Brain model state space reconstruction using an LSTM neural network.,0,classification-only
+R0203,2023,Frontiers in neuroscience,The effects of blurred visual inputs with different levels on the cerebral activity during free level walking.,0,no-WM
+R0217,2023,Behavioural brain research,Parietal alpha underlies slower cognitive responses during interference processing in adolescents.,0,no-phase-connectivity
+R0223,2022,International journal of psychophysiology : official journal of the International Organization of Psychophysiology,Spontaneity matters! Network alterations before and after spontaneous and active facial self-touches: An EEG functional connectivity study.,0,no-WM
+R0236,2023,IEEE transactions on bio-medical engineering,Classification of Working Memory Loads via Assessing Broken Detailed Balance of EEG-FNIRS Neurovascular Coupling Measures.,0,classification-only
+R0249,2022,Journal of neuroscience methods,Spatial-frequency-temporal convolutional recurrent network for olfactory-enhanced EEG emotion recognition.,0,small-N
+R0264,2022,NeuroImage,Individual predictors and electrophysiological signatures of working memory enhancement in aging.,?,
+R0270,2021,NeuroImage,Evaluation of classification approaches for distinguishing brain states predictive of episodic memory performance from electroencephalography: Abbreviated Title: Evaluating methods of classifying memory states from EEG.,0,classification-only
+R0277,2021,"Doklady biological sciences : proceedings of the Academy of Sciences of the USSR, Biological sciences sections",Intracortical Directed Connectivity for Information Retention in Visual-Spatial Working Memory.,0,no-phase-connectivity
+R0282,2021,Cognitive neurodynamics,Changes in Brain Functional Network Connectivity in Adult Moyamoya Diseases.,?,
+R0296,2021,"Cognitive, affective & behavioral neuroscience",Neurocognitive subprocesses of working memory performance.,0,no-phase-connectivity
+R0328,2020,Frontiers in psychiatry,Review of the Neural Processes of Working Memory Training: Controlling the Impulse to Throw the Baby Out With the Bathwater.,0,review
+R0337,2020,Brain stimulation,Transcranial random noise stimulation is more effective than transcranial direct current stimulation for enhancing working memory in healthy individuals: Behavioural and electrophysiological evidence.,0,no-phase-connectivity
+R0349,2020,Frontiers in human neuroscience,Effects of Anodal tDCS on Arithmetic Performance and Electrophysiological Activity.,0,no-phase-connectivity
+R0359,2019,Cell reports,"Network-Targeted, Multi-site Direct Cortical Stimulation Enhances Working Memory by Modulating Phase Lag of Low-Frequency Oscillations.",0,no-EEG
+R0360,2019,The Journal of neuroscience : the official journal of the Society for Neuroscience,Unimodal and Bimodal Access to Sensory Working Memories by Auditory and Visual Impulses.,0,no-phase-connectivity
+R0365,2019,Psychopathology,What Does Electroencephalography Coherence Tell Us about Memory Encoding in Adolescents at High Risk of Suicide?,1,
+R0383,2019,Computational intelligence and neuroscience,Covert Intention to Answer to Self-Referential Questions Is Represented in Alpha-Band Local and Interregional Neural Synchronies.,0,no-WM
+R0391,2018,Neuroscience,Chaotic and Fast Audiovisuals Increase Attentional Scope but Decrease Conscious Processing.,0,no-WM
+R0396,2018,"Cerebral cortex (New York, N.Y. : 1991)",Priority Switches in Visual Working Memory are Supported by Frontal Delta and Posterior Alpha Interactions.,?,
+R0404,2018,"Cerebellum (London, England)",Cerebellar-Stimulation Evoked Prefrontal Electrical Synchrony Is Modulated by GABA.,0,no-WM
+R0410,2018,Journal of Alzheimer's disease : JAD,Decreased Event-Related Beta Synchronization During Memory Maintenance Marks Early Cognitive Decline in Mild Cognitive Impairment.,0,no-phase-connectivity
+R0415,2018,PloS one,Alpha desynchronization/synchronization during working memory testing is compromised in acute mild traumatic brain injury (mTBI).,0,no-phase-connectivity
+R0419,2018,The European journal of neuroscience,Cortical oscillations and entrainment in speech processing during working memory load.,0,no-phase-connectivity
+R0438,2017,Frontiers in neuroscience,Behavioral and Neural Correlates of Executive Function: Interplay between Inhibition and Updating Processes.,0,no-phase-connectivity
+R0464,2017,Restorative neurology and neuroscience,Intrahemispheric theta rhythm desynchronization impairs working memory.,1,
+R0468,2017,Ear and hearing,Indices of Effortful Listening Can Be Mined from Existing Electroencephalographic Data.,0,no-WM
+R0489,2015,Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference,Cluster-span threshold: An unbiased threshold for binarising weighted complete networks in functional connectivity analysis.,0,classification-only
+R0492,2015,Frontiers in systems neuroscience,ERP markers of target selection discriminate children with high vs. low working memory capacity.,0,no-phase-connectivity
+R0498,2015,Journal of Alzheimer's disease : JAD,Attention and Working Memory-Related EEG Markers of Subtle Cognitive Deterioration in Healthy Elderly Individuals.,0,no-phase-connectivity
+R0506,2015,PloS one,Explore the Functional Connectivity between Brain Regions during a Chemistry Working Memory Task.,1,
+R0514,2015,The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry,Reduced auditory evoked gamma band response and cognitive processing deficits in first episode schizophrenia.,1,
+R0635,2022,,Combined Aerobic Exercise and Neurofeedback Lead to Improved Task-Relevant Intrinsic Network Synchrony.,?,
+R0663,2016,,Causal Interactions between Frontal(θ) - Parieto-Occipital(α2) Predict Performance on a Mental Arithmetic Task.,1,

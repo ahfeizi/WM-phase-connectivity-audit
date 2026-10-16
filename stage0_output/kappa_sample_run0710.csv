@@ -1,0 +1,51 @@
+﻿rec_id,year,journal,title,my_label,my_reason
+R0017,2025,Brain research bulletin,Task-specific effects of sleep deprivation on cognitive function and EEG brain network in night-shift nurses.,?,Network
+R0029,2025,iScience,"Attentional state, not trait, predicts test performance in video-based learning.",?,Synchrony
+R0032,2025,Health information science and systems,Neuro-signaling techniques in video gaming endorsements: a cognitive and neural dynamics approach.,0,Not during WM
+R0039,2025,"Bioengineering (Basel, Switzerland)",Linking a Deep Learning Model for Concussion Classification with Reorganization of Large-Scale Brain Networks in Female Youth.,0,Not WM
+R0048,2025,Medical engineering & physics,Exploring the neural mechanisms of alpha-band EEG neurofeedback using portable devices: A pre-post comparative study.,0,Not WM
+R0052,2025,Frontiers in neuroscience,A feature fusion network with spatial-temporal-enhanced strategy for the motor imagery of force intensity variation.,0,Not Phase
+R0060,2025,PloS one,Effects of age on the neural correlates of auditory working memory in cochlear implant users.,?,Synchrony
+R0061,2025,CNS neuroscience & therapeutics,Exploring the Influence of Left Dorsolateral Prefrontal Cortex Intermittent Theta-Burst Stimulation on Working Memory Load: An EEG Study in Healthy Participants.,?,FC
+R0062,2025,Frontiers in psychiatry,Individualized frequency and montage tACS to engage theta-gamma coupling and enhance working memory in mild cognitive impairment.,?,coupling 
+R0068,2025,bioRxiv : the preprint server for biology,Diverse activity in prefrontal projections promotes temporal control of action.,?,connectivity
+R0102,2024,Heliyon,Tactile imagery affects cortical responses to vibrotactile stimulation of the fingertip.,0,Not WM
+R0114,2024,Acta psychologica,Transcranial direct current stimulation combined with cognitive training improves two executive functions: Cognitive flexibility and information updating after traumatic brain injury.,?,connectivity 
+R0117,2024,Neuroreport,Predicting the effectiveness of binaural beats on working memory.,0,Not during WM
+R0119,2024,Molecular brain,Theta-gamma-coupling as predictor of working memory performance in young and elderly healthy people.,0,Not during WM
+R0130,2024,The European journal of neuroscience,Fronto-parietal activity changes associated with changes in working memory load: Evidence from simultaneous electroencephalography and functional near-infrared spectroscopy analysis.,1,
+R0135,2024,Audiology research,Can Music Enhance Working Memory and Speech in Noise Perception in Cochlear Implant Users? Design Protocol for a Randomized Controlled Behavioral and Electrophysiological Study.,?,Proposal!
+R0143,2023,Cognitive neurodynamics,Neurophysiological and other features of working memory in older adults at risk for dementia.,?,Synchrony
+R0160,2024,Translational psychiatry,"Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: a randomized, controlled trial.",0,Not during WM
+R0164,2024,Journal of cognitive neuroscience,Steady-state Visual Evoked Potentials Reveal Dynamic (Re)allocation of Spatial Attention during Maintenance and Utilization of Visual Working Memory.,0,Not Phase
+R0166,2024,Journal of neural engineering,Electrospinography for non-invasively recording spinal sensorimotor networks in humans.,0,Not WM
+R0172,2022,Cognitive neurodynamics,Coherence in event-related EEG oscillations in patients with Alzheimer's disease dementia and amnestic mild cognitive impairment.,0,Not WM
+R0175,2024,IEEE journal of biomedical and health informatics,"Effective Connectivity Estimation by a Hybrid Neural Network, Empirical Wavelet Transform, and Bayesian Optimization.",0,Model
+R0190,2023,"Cerebral cortex (New York, N.Y. : 1991)","Encoding, working memory, or decision: how feedback modulates time perception.",0,Not Phase (CNV)
+R0198,2023,IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society,Cross-Task Mental Workload Recognition Based on EEG Tensor Representation and Transfer Learning.,0,Model
+R0209,2023,ERJ open research,Short-term cognitive loading deteriorates breathing pattern and gas exchange in adult patients with congenital central hypoventilation syndrome.,0,> 10
+R0226,2022,Neuroscience letters,The neural mechanism of non-phase-locked EEG activity in task switching.,0,Not WM
+R0233,2022,Brain sciences,Listening to 15 Hz Binaural Beats Enhances the Connectivity of Functional Brain Networks in the Mental Fatigue State-An EEG Study.,0,Not WM
+R0244,2022,International journal of neural systems,The Task-Dependent Modular Covariance Networks Unveiled by Multiple-Way Fusion-Based Analysis.,0,Model
+R0251,2022,Frontiers in systems neuroscience,Event-Related Potentials as Markers of Efficacy for Combined Working Memory Training and Transcranial Direct Current Stimulation Regimens: A Proof-of-Concept Study.,0,No Phase
+R0254,2022,Journal of neural engineering,Phase-amplitude coupling between low-frequency scalp EEG and high-frequency intracranial EEG during working memory task.,0,> 10
+R0271,2021,Scientific reports,Study of EEG characteristics while solving scientific problems with different mental effort.,0,No WM
+R0272,2021,Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference,Electroencephalography in Evaluating Mental Workload of Gaming.,1,
+R0285,2021,Frontiers in computational neuroscience,Identifying Individuals With Mild Cognitive Impairment Using Working Memory-Induced Intra-Subject Variability of Resting-State EEGs.,0,rest_EEG
+R0288,2021,Brain sciences,Local Oscillatory Brain Dynamics of Mind Wandering in Schizophrenia.,0,Not during WM
+R0300,2021,Clinical EEG and neuroscience,Depression Diagnosis Modeling With Advanced Computational Methods: Frequency-Domain eMVAR and Deep Learning.,0,Model
+R0319,2021,NeuroImage,Arcuate fasciculus architecture is associated with individual differences in pre-attentive detection of unpredicted music changes.,?,During WM? Phase Index?
+R0331,2020,Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference,The Effect of Longitudinal Training on Working Memory Capacities: An Exploratory EEG Study.,0,Not during WM
+R0337,2020,Brain stimulation,Transcranial random noise stimulation is more effective than transcranial direct current stimulation for enhancing working memory in healthy individuals: Behavioural and electrophysiological evidence.,0,ERD/ERS
+R0348,2020,Journal of neural engineering,Spatiotemporal dynamics of working memory under the influence of emotions based on EEG.,0,Effective connectivity
+R0364,2019,Brain topography,Brain Networks Communicate Through Theta Oscillations to Encode High Load in a Visuospatial Working Memory Task: An EEG Connectivity Study.,1,Lagged linear coherence (LagR)
+R0370,2019,Scientific reports,Time-Frequency Based Phase-Amplitude Coupling Measure For Neuronal Oscillations.,0,Model
+R0382,2019,NeuroImage,Age-related differences in reallocating cognitive resources when dealing with interruptions.,0,Not WM
+R0391,2018,Neuroscience,Chaotic and Fast Audiovisuals Increase Attentional Scope but Decrease Conscious Processing.,0,Not WM
+R0429,2017,Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference,Measuring brain activation by using baseline-normalized event-related spectral perturbation in working memory task.,0,ERSP
+R0432,2017,Frontiers in behavioral neuroscience,Theta and Alpha Oscillations during the Retention Period of Working Memory by rTMS Stimulating the Parietal Lobe.,?,phase synchronization
+R0445,2017,IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society,Task-Independent Mental Workload Classification Based Upon Common Multiband EEG Cortical Connectivity.,0,Model - ML
+R0510,2015,Cognitive neurodynamics,Neural bases of syntax-semantics interface processing.,?,functional coupling
+R0513,2015,Neurobiology of aging,The effects of long-term stress exposure on aging cognition: a behavioral and EEG investigation.,?,synchronization 
+R0579,2024,,Cortical and white matter substrates supporting visuospatial working memory.,0,iEEG
+R0620,2020,,Predicting Stimulus Modality and Working Memory Load During Visual- and Audiovisual-Acquired Equivalence Learning.,0,Model - ML

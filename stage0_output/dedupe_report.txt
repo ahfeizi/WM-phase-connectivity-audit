@@ -1,0 +1,37 @@
+====================================================================
+DEDUPE DIAGNOSIS - screening_sheet.csv
+====================================================================
+Rows: 667
+By source: {'pubmed': 519, 'epmc': 148}
+
+Rows with no DOI: 5  {'pubmed': 3, 'epmc': 2}
+  (a DOI missing on one side forces the weaker title match)
+
+Duplicate groups: 1
+Redundant rows:   1
+Unique records:   666
+
+AI label agreement across duplicate pairs: 1/1 (100.0%)
+
+====================================================================
+AI LABELS ON THE DEDUPLICATED SHEET
+====================================================================
+    1    76
+    0   501
+    ?    89
+
+Top exclusion reasons (free text, indicative only):
+     4  magnetoencephalography recordings only
+     3  intracranial eeg seizure detection
+     3  connectome state dynamics from resting-state eeg only
+     3  theta-gamma coupling and event-related power during n-back
+     3  serial reaction time motor learning task, wm only a correlat
+     3  intracranial eeg recordings
+     2  adhd classification from a visual attention task, no retenti
+     2  alpha-band connectivity computed from resting-state eeg only
+     2  graph metrics from resting-state eeg recorded before and aft
+     2  event-related phase-locking at single electrodes, no inter-e
+     2  eyes-open resting eeg classification of sleep deprivation, n
+     2  scoping review of eeg metrics
+
+Written: stage0_output\screening_sheet_dedup.csv

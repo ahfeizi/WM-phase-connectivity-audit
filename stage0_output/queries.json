@@ -1,0 +1,12 @@
+{
+  "run_date": "2026-09-18",
+  "protocol_version": "1.1",
+  "year_range": [
+    2015,
+    2025
+  ],
+  "pubmed_query": "(EEG[tiab] OR electroencephalogra*[tiab]) AND (\"working memory\"[tiab] OR \"n-back\"[tiab] OR \"n back\"[tiab] OR Sternberg[tiab] OR \"delayed match\"[tiab] OR \"delayed matching\"[tiab] OR \"delayed match-to-sample\"[tiab] OR \"short-term memory\"[tiab] OR \"short term memory\"[tiab]) AND (connectivity[tiab] OR synchron*[tiab] OR coupling[tiab] OR coherence[tiab] OR \"phase locking\"[tiab] OR \"phase-locking\"[tiab] OR PLV[tiab] OR \"phase lag index\"[tiab] OR \"phase-lag index\"[tiab] OR wPLI[tiab] OR dwPLI[tiab] OR \"imaginary coherence\"[tiab] OR \"imaginary coherency\"[tiab]) AND (2015:2025[dp]) AND english[la]",
+  "pubmed_hits": 546,
+  "epmc_query": "(ABSTRACT:EEG OR ABSTRACT:electroencephalogra) AND (ABSTRACT:\"working memory\" OR ABSTRACT:\"n-back\" OR ABSTRACT:\"n back\" OR ABSTRACT:Sternberg OR ABSTRACT:\"delayed match\" OR ABSTRACT:\"delayed matching\" OR ABSTRACT:\"delayed match-to-sample\" OR ABSTRACT:\"short-term memory\" OR ABSTRACT:\"short term memory\") AND (ABSTRACT:connectivity OR ABSTRACT:synchron OR ABSTRACT:coupling OR ABSTRACT:coherence OR ABSTRACT:\"phase locking\" OR ABSTRACT:\"phase-locking\" OR ABSTRACT:PLV OR ABSTRACT:\"phase lag index\" OR ABSTRACT:\"phase-lag index\" OR ABSTRACT:wPLI OR ABSTRACT:dwPLI OR ABSTRACT:\"imaginary coherence\" OR ABSTRACT:\"imaginary coherency\") AND (PUB_YEAR:[2015 TO 2025]) AND (LANG:eng) AND (SRC:MED OR SRC:PMC)",
+  "epmc_hits": 306
+}
